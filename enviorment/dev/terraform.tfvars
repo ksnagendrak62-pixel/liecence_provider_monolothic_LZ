@@ -7,6 +7,10 @@ rgs = {
      rg_name  = "patallok"
     location = "west us"
   }
+  rg3 = {
+     rg_name  = "hen"
+    location = "west us"
+}
 }
 
 
